@@ -16,6 +16,8 @@ A Decision Tree classifier is developed in Python and evaluated against a majori
 
 The analysis also includes a sensitivity test in which `PageValues`, the most influential predictor in the selected model, is removed. This comparison examines how strongly predictive performance depends on the availability of that variable.
 
+> **Important:** For a complete understanding of the practical work, please start by reviewing the [Assignment 2 Jupyter Notebook](notebooks/Big_Data_and_Data_Science_Part_2.ipynb), which contains the full analytical workflow, implementation, results, and supporting discussion.
+
 ## Dataset
 
 The project uses the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository.
